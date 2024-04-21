@@ -1,0 +1,5 @@
+null,C300,2023,White,250.0,noor,0598132302,2023-06-01,InProcess
+null,3,2023,Blue,190.0,,,2023-06-01,InProcess
+null,X5,2023,Green,210.0,noor zayed,0598654,2023-06-01,InProcess
+null,X6,2010,Gray,100.0,ana noor,04838211,2023-06-01,InProcess
+null,C200,2019,Black,213.0,noor,0666688,2023-06-02,InProcess
